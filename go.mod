@@ -6,7 +6,7 @@ require (
 	github.com/Mzack9999/go-http-digest-auth-client v0.6.1-0.20220414142836-eb8883508809
 	github.com/khulnasoft-lab/fastdialer v0.0.38
 	github.com/khulnasoft-lab/utils v0.0.47
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.11.1
 	golang.org/x/net v0.18.0
 )
 
